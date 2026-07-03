@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Marilyn Chahine 👋
 
-<!--
-**marilynchahine/marilynchahine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning graduate student at **Sorbonne Université**, currently conducting research on **Vision-Language Models** for **Human-Robot Interaction** at the **Institute of Intelligent Systems and Robotics (ISIR)**.
 
-Here are some ideas to get you started:
+I'm interested in building intelligent systems that can understand, reason about, and interact naturally with people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+- 🤖 Human-Robot Interaction (HRI)
+- 🌍 Embodied AI
+- 👁️ Vision-Language & Multimodal AI
+- 🧠 Representation Learning
+- 🔍 Explainable AI
+- 🧬 NeuroAI
+
+## Current Work
+
+- Vision-Language Models for Engagement Detection
+- Multimodal Representation Learning
+- World Models for Embodied Agents
+
+## Education
+
+**Sorbonne Université**  
+M.Sc. in Machine Learning (2025–2026)
+
+**École Normale Supérieure – PSL**  
+M.Sc. in Cognitive Science (2023–2025)
+
+**American University of Beirut**  
+B.Eng. in Computer Engineering (2019–2023)
+
+---
+
+## Contact
+
+📍 Paris, France
+
+💼 Currently seeking an **entry-level Machine Learning Research Engineer / AI Engineer** position starting **November 2026**.
+
+- 📧 **Email:** marilynchahine@hotmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/marilyn-chahine
