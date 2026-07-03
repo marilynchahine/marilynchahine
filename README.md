@@ -1,4 +1,4 @@
-# Hi, I'm Marilyn Chahine 👋
+# Hi, I'm Marilyn Chahine
 
 Machine Learning graduate student at **Sorbonne Université**, currently conducting research on **Vision-Language Models** for **Human-Robot Interaction** at the **Institute of Intelligent Systems and Robotics (ISIR)**.
 
@@ -6,12 +6,12 @@ I'm interested in building intelligent systems that can understand, reason about
 
 ## Research Interests
 
-- 🤖 Human-Robot Interaction (HRI)
-- 🌍 Embodied AI
-- 👁️ Vision-Language & Multimodal AI
-- 🧠 Representation Learning
-- 🔍 Explainable AI
-- 🧬 NeuroAI
+- Human-Robot Interaction (HRI)
+- Embodied AI
+- Vision-Language & Multimodal AI
+- Representation Learning
+- Explainable AI
+- NeuroAI
 
 ## Current Work
 
@@ -40,3 +40,4 @@ B.Eng. in Computer Engineering (2019–2023)
 
 - 📧 **Email:** marilynchahine@hotmail.com
 - 💼 **LinkedIn:** https://www.linkedin.com/in/marilyn-chahine
+- 📄 **CV:** [MarilynChahine_CV.pdf](./MarilynChahine_CV.pdf)
